@@ -1,0 +1,286 @@
+2026-02-16 23:16:25,794 - INFO - User input: List files
+2026-02-16 23:16:25,795 - INFO - Tool requested: LIST_FILES
+2026-02-16 23:16:25,795 - INFO - Tool executed successfully in 0.0s
+2026-02-16 23:16:25,795 - INFO - User input: Read brain.py
+2026-02-16 23:16:25,795 - INFO - Tool requested: READ_FILE brain.py
+2026-02-16 23:16:25,796 - INFO - Tool executed successfully in 0.0s
+2026-02-16 23:16:25,796 - INFO - User input: What is my name?
+2026-02-16 23:16:35,766 - INFO - LLM response time: 9.969s
+2026-02-16 23:16:59,740 - INFO - User input: Add task finish DSAcat assistant.log
+2026-02-17 11:11:13,971 - INFO - User input: hi
+2026-02-17 11:11:57,356 - INFO - Migrating old vector memory format to embedding format.
+2026-02-17 11:12:11,873 - INFO - User input: hi
+2026-02-17 11:12:23,877 - INFO - LLM response time: 12.003s
+2026-02-17 11:14:59,072 - INFO - User input: My name is Parth.
+2026-02-17 11:15:12,665 - INFO - LLM response time: 13.591s
+2026-02-17 11:15:12,665 - INFO - User input: What is my name?
+2026-02-17 11:15:20,932 - INFO - LLM response time: 8.267s
+2026-02-17 11:15:23,211 - INFO - User input: Explain my name
+2026-02-17 11:15:36,885 - INFO - LLM response time: 13.673s
+2026-02-17 11:15:48,263 - INFO - User input: Read brain.py
+2026-02-17 11:15:48,264 - INFO - Tool requested: READ_FILE brain.py
+2026-02-17 11:15:48,265 - INFO - Tool executed successfully in 0.001s
+2026-02-17 11:18:17,812 - INFO - User input: My name is Parth.
+2026-02-17 11:18:31,377 - INFO - LLM response time: 13.563s
+2026-02-17 11:18:38,277 - INFO - User input: What is my name?
+2026-02-17 11:18:51,167 - INFO - LLM response time: 12.89s
+2026-02-17 11:40:30,330 - INFO - User input: What is my name?
+2026-02-17 11:40:43,480 - INFO - LLM response time: 13.146s
+2026-02-17 11:40:48,771 - INFO - User input: cat assistant.log
+2026-02-17 11:41:03,144 - INFO - LLM response time: 14.372s
+2026-02-17 11:42:51,961 - INFO - User input: Read assistant.log
+2026-02-17 11:42:51,962 - INFO - Tool requested: READ_FILE assistant.log
+2026-02-17 11:42:51,963 - INFO - Tool executed successfully in 0.001s
+2026-02-17 11:49:00,276 - INFO - User input: Summarize brain.py
+2026-02-17 11:49:18,647 - INFO - LLM response time: 18.369s
+2026-02-17 11:49:18,647 - INFO - User input: Summarize file brain.py
+2026-02-17 11:49:18,647 - INFO - Tool requested: SUMMARIZE_FILE brain.py
+2026-02-17 11:49:52,030 - INFO - Tool executed successfully in 33.383s
+2026-02-17 11:50:17,129 - INFO - User input: Summarize brain.py
+2026-02-17 11:50:17,130 - INFO - Tool requested: READ_FILE brain.py
+2026-02-17 11:55:17,753 - INFO - Whisper model loaded successfully.
+2026-02-17 11:55:19,838 - INFO - Recording audio...
+2026-02-17 11:55:36,628 - INFO - User input: ..
+2026-02-17 11:55:42,291 - INFO - LLM response time: 5.663s
+2026-02-17 11:56:08,531 - INFO - User input: hi
+2026-02-17 11:56:21,697 - INFO - LLM response time: 13.165s
+2026-02-17 11:59:00,665 - INFO - Whisper model loaded successfully.
+2026-02-17 13:39:02,282 - INFO - Whisper model loaded successfully.
+2026-02-17 14:47:25,433 - INFO - Recording audio...
+2026-02-17 14:47:25,472 - WARNING - Audio recording failed: Error opening InputStream: Internal PortAudio error [PaErrorCode -9986]
+2026-02-17 14:47:27,147 - INFO - Recording audio...
+2026-02-17 14:47:27,149 - WARNING - Audio recording failed: Error opening InputStream: Internal PortAudio error [PaErrorCode -9986]
+2026-02-17 16:47:48,090 - INFO - Tool requested: OPEN_APP safari
+2026-02-17 16:47:59,754 - INFO - Tool requested: OPEN_APP photo booth
+2026-02-17 17:00:08,156 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 17:00:08,157 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:03:36,930 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdfSummarize page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:03:36,931 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdfSummarize page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:04:37,688 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:04:37,689 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:08:09,573 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:08:09,573 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:14:47,703 - INFO - Tool requested: READ_FILE page-1 2.pdf
+2026-02-17 19:14:47,744 - WARNING - GUI Chain execution failed: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2026-02-17 19:14:47,744 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:14:47,744 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:16:48,286 - INFO - Tool requested: READ_FILE page-1 2.pdf
+2026-02-17 19:16:48,322 - WARNING - GUI Chain execution failed: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2026-02-17 19:16:48,322 - INFO - Tool requested: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:16:48,322 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1 2.pdf | SUMMARIZE_FILE
+2026-02-17 19:18:20,705 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 19:18:20,748 - WARNING - GUI Chain execution failed: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2026-02-17 19:18:20,749 - INFO - Tool requested: CHAIN: READ_FILE page-1.pdf | SUMMARIZE_FILE
+2026-02-17 19:18:20,749 - WARNING - Invalid or unauthorized tool: CHAIN: READ_FILE page-1.pdf | SUMMARIZE_FILE
+2026-02-17 19:20:01,670 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 134 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 136 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 138 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 140 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 142 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 144 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 146 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 148 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 150 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 152 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 154 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 156 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 234 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+2026-02-17 19:20:01,783 - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 240 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 244 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 246 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 248 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 250 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 252 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 254 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 288 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 300 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 310 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 312 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 315 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 337 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 339 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 341 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 437 0 (offset 0)
+2026-02-17 19:20:01,784 - WARNING - Ignoring wrong pointing object 438 0 (offset 0)
+2026-02-17 19:24:45,866 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 134 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 136 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 138 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 140 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 142 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 144 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 146 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 148 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 150 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 152 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 154 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 156 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 234 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 240 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 244 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 246 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 248 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 250 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 252 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 254 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 288 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 300 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 310 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 312 0 (offset 0)
+2026-02-17 19:24:47,250 - WARNING - Ignoring wrong pointing object 315 0 (offset 0)
+2026-02-17 19:24:47,251 - WARNING - Ignoring wrong pointing object 337 0 (offset 0)
+2026-02-17 19:24:47,251 - WARNING - Ignoring wrong pointing object 339 0 (offset 0)
+2026-02-17 19:24:47,251 - WARNING - Ignoring wrong pointing object 341 0 (offset 0)
+2026-02-17 19:24:47,251 - WARNING - Ignoring wrong pointing object 437 0 (offset 0)
+2026-02-17 19:24:47,251 - WARNING - Ignoring wrong pointing object 438 0 (offset 0)
+2026-02-17 19:24:50,693 - INFO - No extractable text found. Using OCR fallback.
+2026-02-17 19:24:50,765 - WARNING - PDF read/OCR failed: Unable to get page count. Is poppler installed and in PATH?
+2026-02-17 19:27:06,709 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 134 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 136 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 138 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 140 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 142 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 144 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 146 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 148 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 150 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 152 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 154 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 156 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 234 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 240 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 244 0 (offset 0)
+2026-02-17 19:27:06,829 - WARNING - Ignoring wrong pointing object 246 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 248 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 250 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 252 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 254 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 288 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 300 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 310 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 312 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 315 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 337 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 339 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 341 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 437 0 (offset 0)
+2026-02-17 19:27:06,830 - WARNING - Ignoring wrong pointing object 438 0 (offset 0)
+2026-02-17 19:27:10,250 - INFO - No extractable text found. Using OCR fallback.
+2026-02-17 20:10:51,624 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 134 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 136 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 138 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 140 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 142 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 144 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 146 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 148 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 150 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 152 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 154 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 156 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 234 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 240 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 244 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 246 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 248 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 250 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 252 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 254 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 288 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 300 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 310 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 312 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 315 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 337 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 339 0 (offset 0)
+2026-02-17 20:10:51,741 - WARNING - Ignoring wrong pointing object 341 0 (offset 0)
+2026-02-17 20:10:51,742 - WARNING - Ignoring wrong pointing object 437 0 (offset 0)
+2026-02-17 20:10:51,742 - WARNING - Ignoring wrong pointing object 438 0 (offset 0)
+2026-02-17 20:10:55,249 - INFO - No extractable text found. Using OCR fallback.
+2026-02-17 20:14:30,625 - INFO - Tool requested: READ_FILE page-1.pdf
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 134 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 136 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 138 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 140 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 142 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 144 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 146 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 148 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 150 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 152 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 154 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 156 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 234 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 240 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 244 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 246 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 248 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 250 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 252 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 254 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 288 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 300 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 310 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 312 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 315 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 337 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 339 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 341 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 437 0 (offset 0)
+2026-02-17 20:14:30,755 - WARNING - Ignoring wrong pointing object 438 0 (offset 0)
+2026-02-17 20:14:34,368 - INFO - No extractable text found. Using OCR fallback.
+2026-02-17 20:15:49,522 - INFO - Recording audio...
+2026-02-17 20:15:54,687 - INFO - Loading Whisper model (lazy)...
+2026-02-17 20:15:55,131 - INFO - Whisper model loaded successfully.
+2026-02-18 22:35:13,320 - WARNING - Failed to load task: Task.__init__() got an unexpected keyword argument 'task'
+2026-02-18 22:35:20,374 - INFO - Processing: hi
+2026-02-18 22:35:30,048 - INFO - Processing: mute
+2026-02-18 22:35:47,258 - INFO - Processing: mute
+2026-02-18 22:35:48,264 - INFO - Processing: mute
+2026-02-18 22:35:48,265 - INFO - Processing: mute
+2026-02-18 22:35:59,051 - INFO - Processing: unmute
+2026-02-18 22:36:05,560 - INFO - Processing: put mac to sleep
+2026-02-18 22:36:12,091 - INFO - Recording for 5s...
+2026-02-18 22:36:17,280 - INFO - Loading Whisper model...
+2026-02-18 22:36:17,312 - INFO - Recording for 5s...
+2026-02-18 22:36:17,782 - INFO - Whisper loaded successfully
+2026-02-18 22:36:18,224 - INFO - Processing: Hello
+2026-02-18 22:36:30,057 - INFO - Processing: Good morning.
+2026-02-18 22:49:30,251 - INFO - Processing: Take that screen shot.
+2026-02-18 22:50:21,732 - INFO - Processing: Save this screenshot in desktop.
+2026-02-18 22:51:17,126 - INFO - Processing: take screenshot
+2026-02-18 22:51:22,522 - INFO - Processing: lock screen
+2026-02-18 22:51:43,264 - INFO - Processing: whats inside this folder
+2026-02-18 22:52:43,440 - INFO - Processing: hi
+2026-02-18 22:53:15,472 - INFO - Processing: increse brightness
+2026-02-18 22:55:39,505 - INFO - Processing: What's on my screen?"
+2026-02-18 22:55:51,449 - INFO - Processing: What's on my screen?
+2026-02-18 22:56:04,947 - INFO - Processing: Click on Safari
+2026-02-18 22:56:05,024 - ERROR - Screenshot failed: Command '['screencapture', '-x', '/Users/parth/Pictures/ParthAI/screen_20260218_225604.png']' returned non-zero exit status 1.
+2026-02-18 22:56:05,025 - ERROR - Find text failed: [Errno 2] No such file or directory: ''
+2026-02-18 22:59:48,049 - INFO - Processing: Click on Safari
+2026-02-18 23:00:03,729 - INFO - Processing: Click on Safari
+2026-02-18 23:00:34,229 - INFO - Processing: open Safari

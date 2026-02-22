@@ -1,0 +1,20 @@
+2026-02-18 23:39:23,526 - INFO - Processing: analyze what's on my screen
+2026-02-18 23:39:23,526 - INFO - ReAct iteration 1
+2026-02-18 23:39:23,552 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:39:24,564 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:39:25,576 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:39:42,074 - INFO - Processing: hello
+2026-02-18 23:39:42,074 - INFO - ReAct iteration 1
+2026-02-18 23:39:42,081 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:39:43,092 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:39:44,102 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:46:57,222 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-18 23:46:58,233 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:12:23,814 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:12:24,827 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:12:35,939 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:12:36,950 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:33:51,571 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-19 15:33:52,626 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-21 14:21:09,332 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-02-21 14:21:10,347 - ERROR - LLM error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate

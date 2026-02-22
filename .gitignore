@@ -1,0 +1,21 @@
+# PDFs
+*.pdf
+*.zip
+
+# Memory files
+vector_memory.json
+memory.json
+tasks.json
+agent_memory.json
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual env
+venv/
+env/
